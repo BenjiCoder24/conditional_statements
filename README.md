@@ -1,6 +1,15 @@
 
 # Python Programming: Control Structures Tutorial
 
+## how to open the codeing environement
+
+open: 
+[Click here to open Google Colab ](https://colab.google){:target="_blank"}
+
+![Alt text](image.png)
+
+
+
 ## Introduction to Python Control Structures
 
 In this tutorial, we will delve into Python's control structures, focusing on `if` statements, `if-else` structures, and `for` loops. These are fundamental to creating conditional logic and repetitions in your code, allowing for more complex and dynamic programs.
