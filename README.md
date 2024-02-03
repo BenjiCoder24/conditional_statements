@@ -4,7 +4,7 @@
 ## how to open the codeing environement
 
 open: 
-[Click here to open Google Colab ](https://colab.google){:target="_blank"}
+[Click here to open Google Colab ](https://colab.research.google.com/github/BenjiCoder24/conditional_statements/blob/main/python_control_structures_tutorial_corrected.ipynb){:target="_blank"}
 
 ![Alt text](image.png)
 
